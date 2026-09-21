@@ -1,10 +1,3 @@
-<img width="1125" height="873" alt="image" src="https://github.com/user-attachments/assets/3952e20b-a270-42a4-b087-432ab937d8ad" />
-
-<img width="1171" height="670" alt="image" src="https://github.com/user-attachments/assets/8ce0901e-8b03-4173-890c-2d2f96f5b8a1" />
-
-<img width="1174" height="653" alt="image" src="https://github.com/user-attachments/assets/f7e808be-7cd3-432d-bca7-e3b83abebe98" />
-
-
 # superstore-dashboard
 
 Интерактивный дашборд в Power BI для анализа продаж и прибыли сети Superstore.
@@ -33,3 +26,9 @@
 - Убыточные подкатегории: Tables, Bookcases.
 - Скидки выше 30% ведут к убыткам.
 - Топ-регионы: California, New York.
+
+<img width="1125" height="873" alt="image" src="https://github.com/user-attachments/assets/3952e20b-a270-42a4-b087-432ab937d8ad" />
+
+<img width="1171" height="670" alt="image" src="https://github.com/user-attachments/assets/8ce0901e-8b03-4173-890c-2d2f96f5b8a1" />
+
+<img width="1174" height="653" alt="image" src="https://github.com/user-attachments/assets/f7e808be-7cd3-432d-bca7-e3b83abebe98" />
