@@ -1,3 +1,6 @@
+<img width="1125" height="873" alt="image" src="https://github.com/user-attachments/assets/3952e20b-a270-42a4-b087-432ab937d8ad" />
+
+
 # superstore-dashboard
 
 Интерактивный дашборд в Power BI для анализа продаж и прибыли сети Superstore.
